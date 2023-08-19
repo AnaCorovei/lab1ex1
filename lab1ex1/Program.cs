@@ -17,10 +17,10 @@ namespace lab1ex1
             Console.WriteLine("Enter length: ");
             length = int.Parse(Console.ReadLine()); 
 
-            Console.WriteLine("Introduceti width: ");
+            Console.WriteLine("Enter width: ");
             width = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Introduceti height: ");
+            Console.WriteLine("Enter height: ");
             height = int.Parse(Console.ReadLine());
 
             int volum = length * width * height;
